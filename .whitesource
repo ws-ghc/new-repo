@@ -2,5 +2,13 @@
   "settingsInheritedFrom": "vital-ws/whitesource-config@main",
   "scanSettings" : {
     "baseBranches" : ["main", "feature"]
+  },
+    "remediateSettings": {
+    "workflowRules": {
+      "enabled": true
+    },
+    "enableRenovate": true,
+    "extends": ["github>mend/merge-confidence:beta"]  
   }
+}
 }
