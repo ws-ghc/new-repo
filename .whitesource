@@ -3,7 +3,7 @@
   "scanSettings" : {
     "baseBranches" : ["main", "feature"]
   },
-    "remediateSettings": {
+  "remediateSettings": {
     "workflowRules": {
       "enabled": true
     },
@@ -11,4 +11,4 @@
     "extends": ["github>mend/merge-confidence:beta"]  
   }
 }
-}
+
