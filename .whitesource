@@ -1,6 +1,7 @@
 {
   "settingsInheritedFrom": "vital-ws/whitesource-config@main",
   "remediateSettings": {
+  
     "workflowRules": {
       "enabled": true
     },
