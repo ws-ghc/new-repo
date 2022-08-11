@@ -9,7 +9,8 @@
       "enabled": true
     },
     "enableRenovate": true,
-    "extends": ["github>mend/merge-confidence:beta"]  
+    "extends": ["github>mend/merge-confidence:beta"],
+    "platformCommit": true
   }
 }
 
