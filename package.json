@@ -4,6 +4,7 @@
         "express": "3.0.0",
         "lodash": "3.0.0",
         "mkdirp": "0.3.4",
-        "jest": "27.5.0"
+        "jest": "27.5.0",
+        "less-openui5":"0.1.2"
     }
 }
