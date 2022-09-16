@@ -6,7 +6,8 @@
   "remediateSettings": {
   
     "workflowRules": {
-      "enabled": true
+      "enabled": true,
+      "minVulnerabilitySeverity":"LOW"
     },
     "enableRenovate": true,
     "extends": ["github>mend/merge-confidence:beta"],
