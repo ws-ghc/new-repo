@@ -19,7 +19,7 @@ emoji==0.6.0
 ffmpeg==1.4
 ffpyplayer==4.1.1
 gTTS==2.1.1
-gensim==3.7.3
+gensim==3.8.3
 geopy==2.0.0
 googletrans==3.0.0
 idna==2.10
