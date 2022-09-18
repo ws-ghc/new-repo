@@ -10,7 +10,6 @@
       "minVulnerabilitySeverity":"LOW"
     },
     "enableRenovate": true,
-    "extends": ["github>mend/merge-confidence:beta"],
     "platformCommit": true
   }
 }
