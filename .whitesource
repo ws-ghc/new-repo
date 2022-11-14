@@ -14,12 +14,7 @@
   },
   "hostRules": [
     {
-      "matchHost": "registry.npmjs.org",
-      "hostType": "npm",
-      "userName": "bot1",
-      "encrypted": {
-        "token": "wcFMA/xDdHCJBTolARAAjbvqJzCEIC6LLX8D2ZgRpNdRxcRZVxBEIc4yL0sJFV68XzXl9poXMVdpR1XDNyF9vU+NiqOOxZnxElrCwgKGDhr9t4F1hjLfD9lSTeFVQLgWpexLdk6KAaasVEZJ4/EU47U6omPQMYe2gYHYadgbJe20+RvODeYFn5W6KHErBQMahTRXYgBdq4RoOxYXs1KAyL43t5XyTSnjvwgBZFiFDYbA2dkvLvarb4eRD9Nc+5uu7CvbuSDkw5ZbkyNUyDwbMVbLlxZndKeJeWZUyVmwFz77W6bwa8gUykeyovDFQpvAkPD7XoWIiXeWAuNzEXLOI9/E4YsPJLRfdPvwc0t0FfwyIVGfLyz4INVSaIv1jo8CCCrzIkKmtNx9n2FEH3uFUxWwas/CNmwHoqhAkY37YH/6s8aCnQcpm+btIJnQb6tq3YZB2UIxaQn5ohmYV/aZexl8nSwYAlmVJRjgUarumjQFQe/1btmBrMB+Sp8UmFUyAcz3Iu6dPgPuvqHrT4R9cZXOzJyCTGrdGEjJ4MKjGJ2UrjVFxLiLQV4rQrtH+mzPzsugrQrbpxGaKW+rKz/q7ft0FUrR3F69Vmi/GHY1n5XzyE5e5sBldGDCUN1U6J91wbGy2GhSz3VBzHMPV4gUqqAu2fbtez5ICEgVF94TXcndfXQp2YGGnXhXBQWXadfSYAEVC3UsJimZRYt4sqnhUYtD7U/BOobveoKg2T+fzGSBxdX02CroFVya/uhsQMSHlBJKVNC1fatcoKWHez4GKLZEoR+0qb2QqmlRLHrzTWQMkr1Qlati4Mr2jRx7sRbzuw"
-      }
+      "matchHost": "registry.npmjs.org"
     },
     {
       "matchHost": "https://custom.registry.company.com/maven/",
