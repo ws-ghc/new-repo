@@ -14,14 +14,12 @@
   },
   "hostRules": [
     {
-      "matchHost": "registry.npmjs.org"
-    },
-    {
-      "matchHost": "https://custom.registry.company.com/maven/",
-      "hostType": "maven",
-      "userName": "bot1",
-      "encrypted": {
-        "password": "wcFMA/xDdHCJBTolARAAjbvqJzCEIC6LLX8D2ZgRpNdRxcRZVxBEIc4yL0sJFV68XzXl9poXMVdpR1XDNyF9vU+NiqOOxZnxElrCwgKGDhr9t4F1hjLfD9lSTeFVQLgWpexLdk6KAaasVEZJ4/EU47U6omPQMYe2gYHYadgbJe20+RvODeYFn5W6KHErBQMahTRXYgBdq4RoOxYXs1KAyL43t5XyTSnjvwgBZFiFDYbA2dkvLvarb4eRD9Nc+5uu7CvbuSDkw5ZbkyNUyDwbMVbLlxZndKeJeWZUyVmwFz77W6bwa8gUykeyovDFQpvAkPD7XoWIiXeWAuNzEXLOI9/E4YsPJLRfdPvwc0t0FfwyIVGfLyz4INVSaIv1jo8CCCrzIkKmtNx9n2FEH3uFUxWwas/CNmwHoqhAkY37YH/6s8aCnQcpm+btIJnQb6tq3YZB2UIxaQn5ohmYV/aZexl8nSwYAlmVJRjgUarumjQFQe/1btmBrMB+Sp8UmFUyAcz3Iu6dPgPuvqHrT4R9cZXOzJyCTGrdGEjJ4MKjGJ2UrjVFxLiLQV4rQrtH+mzPzsugrQrbpxGaKW+rKz/q7ft0FUrR3F69Vmi/GHY1n5XzyE5e5sBldGDCUN1U6J91wbGy2GhSz3VBzHMPV4gUqqAu2fbtez5ICEgVF94TXcndfXQp2YGGnXhXBQWXadfSYAEVC3UsJimZRYt4sqnhUYtD7U/BOobveoKg2T+fzGSBxdX02CroFVya/uhsQMSHlBJKVNC1fatcoKWHez4GKLZEoR+0qb2QqmlRLHrzTWQMkr1Qlati4Mr2jRx7sRbzuw"
+      "matchHost": "https://sttr.jfrog.io/artifactory/api/npm/gal-sep-test/",
+      "hostType": "npm",
+      "userName": "g.d.doron@gmail.com",
+      "encrypted":
+      {
+       "password": "wcBMA8xOaBJvzJNbAQf/Rgcy02EodWcDyr/WapF0fobazx+q0h+0Ik3mTTuNdbTTQ1GZptQF/idaP1VqV+05D+qxfgZ6dRp+oAWDQBn+6zs5OzXOvSM2GNY4R20yz6jum1gDxVPn2Vd2hOLkKcyTApMsu5BBEgphhjePCEmwqzAISB3OkDEwDjhnzTbj4hYjzdvx6BoV23lzfxvt+Wnnr39SJ88kj35Fh9YQaYHPrI/IjXwHj8FdFZuOl+V5wXu/h3HKbZEln6mm96Gul8YPlCqfg9I1h45+16MV+iHRoNH8Vj7fpu1XUAx3W1bViH2ASdD2DJ+JXzn24uSv6Rl8aO5kPI9FvF83JQkMvq0UrNJbAdiKAxPl+4TFNBdOFT8Tl7DezpZaJtoAlSj8CQKYvrxVuqp/2+c21LA/3CwEfot/UhLSDAR5WDva4NvuKhm7/T3plcjuYr5rnslpk3zA5TxgvBqoNzIjWQ7gww"
       }
     }
   ]
