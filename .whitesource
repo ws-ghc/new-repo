@@ -14,7 +14,7 @@
   },
   "hostRules": [
     {
-      "matchHost": "https://sttr.jfrog.io/artifactory/api/npm/vitalws/",
+      "matchHost": "https://sttr.jfrog.io/artifactory/api/npm/vitalws2222/",
       "hostType": "npm",
       "userName": "vital",
       "encrypted":
