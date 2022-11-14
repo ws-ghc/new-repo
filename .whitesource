@@ -11,6 +11,24 @@
     },
     "enableRenovate": true,
     "platformCommit": true
-  }
+  },
+  "hostRules": [
+    {
+      "matchHost": "registry.npmjs.org",
+      "hostType": "npm",
+      "userName": "bot1",
+      "encrypted": {
+        "token": "3f832f2983yf89hsd98ahadsjfasdfjaslf............"
+      }
+    },
+    {
+      "matchHost": "https://custom.registry.company.com/maven/",
+      "hostType": "maven",
+      "userName": "bot1",
+      "encrypted": {
+        "password": "p278djfdsi9832jnfdshufwji2r389fdskj........."
+      }
+    }
+  ]
 }
 
