@@ -2,7 +2,7 @@ resource storage1 'Microsoft.Storage/storageAccounts@2020-08-01-preview' = {
   name: 'tobiasStorageDemoBicep123'
   location: 'westeurope'
   sku: {
-    name: 'Standard_LRS'
+    name: 'Standard_LRSs'
   }
   kind: 'StorageV2'
   properties: {
